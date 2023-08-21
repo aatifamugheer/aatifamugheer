@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning algorithm and data structure....
 - 💞️ I’m looking to collaborate on software architecture
 - 📫 How to reach me
-- mail me on- codesfortomorrow@gmail.com
+- mail me on- aatifamugheer34@gmail.com
 
 <!---
 aatifamugheer/aatifamugheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
