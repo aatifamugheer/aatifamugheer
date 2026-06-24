@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,c++,mysql,laravel,git,github,vscode,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,androidstudio,html,css,bootstrap,js,php,mysql,laravel,git,github,vscode,linux&perline=8"/>
 
 </div>
 
@@ -88,12 +88,11 @@ Interactive Plant Marketplace developed from scratch using PHP, MySQL, Bootstrap
 
 ## 🌐 aatifamugheer.in
 
-Personal Portfolio, Blogging Platform and Project Showcase Website.
+Personal Portfolio and Project Showcase Website.
 
 ### Highlights
 
 * Personal Branding
-* Technical Blogs
 * Project Portfolio
 * Contact & Resume Section
 
