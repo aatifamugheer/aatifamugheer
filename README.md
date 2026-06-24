@@ -1,86 +1,214 @@
-<h1 align="center">Hi 👋, I'm Aatifa Mugheer</h1>
+<div align="center">
 
-<h3 align="center">
-BCA Student • Full Stack Developer • AI/ML Enthusiast
-</h3>
+# Hi 👋, I'm Aatifa Mugheer
 
-<p align="center">
-Passionate about building innovative web applications, AI solutions, and solving real-world problems through technology.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Hackathon+Participant;Building+Real+World+Projects" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=aatifamugheer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-🎓 Pursuing BCA from IFTM University, Moradabad
+🎓 B.Tech Student at **Galgotias College of Engineering & Technology, Greater Noida**
 
-💻 Full Stack Web Developer
+💻 Passionate **Full Stack Developer**
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+🤖 Exploring **Artificial Intelligence, Machine Learning & Data Science**
 
-🌱 Developer of Faizul Nursery Showroom
+🌱 Developer of **Faizul Nursery Showroom**
 
-🚀 Creator of Opplic.com
+🌐 Creator of **aatifamugheer.in**
 
 🏆 Active Hackathon Participant
 
-📚 Regularly practicing Data Structures & Algorithms
+📚 Regularly practicing **Data Structures & Algorithms**
+
+🚀 Interested in building scalable applications and AI-powered solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,java,mysql,laravel,git,github,vscode" />
+
+<a href="https://github.com/aatifamugheer">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aatifa-mugheer-a38655282/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/aatifa_mugheer/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codolio.com/profile/aatifamugheer">
+<img src="https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:aatifamugheer34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-### 🌿 Faizul Nursery Showroom
-Interactive plant marketplace built using PHP, MySQL, JavaScript, Bootstrap and Razorpay integration.
+<div align="center">
 
-### 🛒 Opplic.com
-Blogging and E-commerce platform focused on content sharing and online business solutions.
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,java,mysql,laravel,git,github,vscode,linux&perline=6"/>
 
-### 🤖 AI & Machine Learning Projects
-- Sentiment Analysis using NLP
-- Poetic Text Generation using RNN
-- Web Scraping & Data Analysis Projects
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=aatifamugheer&show_icons=true&theme=tokyonight)
+## 🌿 Faizul Nursery Showroom
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aatifamugheer&theme=tokyonight)
+Interactive Plant Marketplace developed from scratch using PHP, MySQL, Bootstrap, JavaScript and Razorpay Integration.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aatifamugheer&layout=compact&theme=tokyonight)
+### Key Features
+
+* Dynamic Product Management
+* Shopping Cart System
+* Secure Checkout
+* Razorpay Payment Gateway
+* Responsive Design
 
 ---
 
-## 🏅 Achievements
+## 🌐 aatifamugheer.in
+
+Personal Portfolio, Blogging Platform and Project Showcase Website.
+
+### Highlights
+
+* Personal Branding
+* Technical Blogs
+* Project Portfolio
+* Contact & Resume Section
+
+---
+
+## 🤖 AI & Machine Learning Projects
+
+* Sentiment Analysis using NLP
+* Poetic Text Generation using RNN
+* News Article Analysis
+* Web Scraping & Data Analytics
+* Machine Learning Prediction Models
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aatifamugheer&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifamugheer&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aatifamugheer&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aatifamugheer&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/aatifa_mugheer?theme=dark&font=Nunito&ext=heatmap"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifamugheer&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
 
 🏆 Hackathon Participant
 
-💡 Building AI & Web Development Projects
+💡 AI & ML Project Developer
 
 🌟 Open Source Learner
 
+📚 Consistent DSA Practice
+
+🚀 Full Stack Web Development Enthusiast
+
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Focus
 
-📧 Email: aatifamugheer34@gmail.com
+✔ Data Structures & Algorithms
 
-🌐 Portfolio: https://aatifamugheer.in/
+✔ Artificial Intelligence & Machine Learning
 
-🌿 Project: https://faizulnurseryshowroom.com
+✔ Full Stack Development
+
+✔ Open Source Contributions
+
+✔ Competitive Programming
+
+---
+
+# 📫 Contact
+
+📧 Email: [aatifamugheer34@gmail.com](mailto:aatifamugheer34@gmail.com)
+
+🌐 Portfolio: https://aatifamugheer.in
 
 💻 GitHub: https://github.com/aatifamugheer
 
+🔗 LinkedIn: https://www.linkedin.com/in/aatifa-mugheer-a38655282/
+
+🏆 LeetCode: https://leetcode.com/u/aatifa_mugheer/
+
+📊 Codolio: https://codolio.com/profile/aatifamugheer
+
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building technology that solves real-world problems through code and innovation."*
+
+</div>
