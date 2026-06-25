@@ -124,7 +124,7 @@ Personal Portfolio and Project Showcase Website.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aatifamugheer&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aatifamugheer&theme=tokyonight&hide_border=true" />
 
 </div>
 
