@@ -122,22 +122,17 @@ Personal Portfolio and Project Showcase Website.
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aatifamugheer&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aatifamugheer&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aatifamugheer&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aatifamugheer&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 ---
 
 # 🧠 LeetCode Stats
